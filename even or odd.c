@@ -1,5 +1,5 @@
 /**
-File Name: fibonnaci series.c
+File Name: even or odd.c
 Author: Dominic OT
 Date: 16-05-2023
 */
