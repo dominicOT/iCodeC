@@ -1,5 +1,5 @@
 /**
-File Name: fibonnaci series.c
+File Name: hello world.c
 Author: Dominic OT
 Date: 16-05-2023
 */
